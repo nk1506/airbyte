@@ -30,6 +30,11 @@ public class IcebergConstants {
   public static final String REST_CATALOG_URI_CONFIG_KEY = "rest_uri";
   public static final String REST_CATALOG_CREDENTIAL_CONFIG_KEY = "rest_credential";
   public static final String REST_CATALOG_TOKEN_CONFIG_KEY = "rest_token";
+  public static final String NESSIE_CATALOG_TOKEN_CONFIG_KEY = "nessie_token";
+  public static final String NESSIE_CATALOG_URI_CONFIG_KEY = "nessie_uri";
+  public static final String NESSIE_CATALOG_REFERENCE_KEY = "nessie_ref";
+  public static final String NESSIE_CATALOG_AUTHENTICATION_TYPE_KEY = "nessie_auth_type";
+  public static final String NESSIE_CLIENT_API_VERSION_KEY = "nessie_client_api_version";
 
   /**
    * Storage Config keys
